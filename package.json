@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "matplotlib": "^1.0.0"
+    "matplotlib": "^1.0.0",
+    "vite": "^6.3.5"
   }
 }
